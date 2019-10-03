@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "312290498451",
+    "firebase_url": "https://ml-kit-do-9c97e.firebaseio.com",
+    "project_id": "ml-kit-do-9c97e",
+    "storage_bucket": "ml-kit-do-9c97e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312290498451:android:491b69a77a84f167a0fa66",
+        "android_client_info": {
+          "package_name": "co.paulfran.paulfranco.mltoolkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312290498451-89gjjsbp5mv9v6q16nul9vgg4efqviv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqTQ28aOx_6vVHomAvAhChFXXSb0rNw6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312290498451-89gjjsbp5mv9v6q16nul9vgg4efqviv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
